@@ -8,9 +8,9 @@ This module is used to find the US Car details by using Vehicle Identification N
 •	Studio pro version 9.2.0
 
 ## Configuration
-•	Go to the URL to get the API key, URL: https://rapidapi.com/dominonet-lTpEE6zONeS/api/vin-decoder19
-•	Sign in into the rapid API by using Email Account and Get the API Key.
-•	The API key should be placed in the default value of API Key constant which is available inside the module.
+### •	Go to the URL to get the API key, URL: https://rapidapi.com/dominonet-lTpEE6zONeS/api/vin-decoder19
+### •	Sign in into the rapid API by using Email Account and Get the API Key.
+### •	The API key should be placed in the default value of API Key constant which is available inside the module.
 
 ## Microflows
 
